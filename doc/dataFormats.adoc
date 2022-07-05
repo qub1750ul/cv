@@ -1,0 +1,38 @@
+= Data formats
+:toc:
+
+== Content data
+=== Full CV representation
+
+A CV is represented by a single YAML document. +
+The schema of this document is an extension of the
+https://jsonresume.org[JSON Resume] schema version v1.0.0. +
+
+=== CV fragments
+
+A CV may be decomposed in a series of indipendent reusable units.
+I will colloquially call these "fragments".
+
+Each fragment is represented by a single YAML document. +
+Each fragment is expected to adopt a different schema.
+In general each of these schemas is part of the
+<<full-cv-representation schema>>.
+
+== Typesetting data
+
+Typesetting can be done in a number of ways, each more suited to create certain
+outputs than others. +
+So different typesetting data formats may be needed.
+
+=== Web typesetting
+
+HTML5 and CSS4 are the estabilished standard for end-user web publishing. +
+I restric myself to use a kinda generic feature subset of these to enable
+smoother integration with already existing data representations.
+
+=== Traditional-looking documents
+
+The link:[TeX language] is the de-facto standard typesetting language for
+technical and scientific publications. +
+Integration with other data formats is done using TeX macros, that can be
+consumed by the TeX engine.

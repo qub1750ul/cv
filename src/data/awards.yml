@@ -1,0 +1,12 @@
+awards:
+
+  - name: "1° classified team @ Future Fair Milano 2017"
+    awarder: unimi
+    date: "2017-03"
+    summary: |
+
+      Project competition organized as a collaboration beetween Microsoft Italy
+      and University of Milano, open to high-school students nationwide.
+      The proposed project detailed the architecture of a flexible end-to-end
+      real-time food supply chain monitoring system, built using the Azure Cloud
+      technology.

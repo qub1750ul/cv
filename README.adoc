@@ -1,0 +1,10 @@
+= CV: Curriculum Vitae
+My curriculum vitae in machine-readable and reproducible formats.
+:toc:
+
+== Source data formats
+See xref:doc/dataFormats.adoc[] for info on data formats used in this project.
+
+== Data processing toolchain
+See xref:doc/toolchain.adoc[] for info on the toolchain.
+
