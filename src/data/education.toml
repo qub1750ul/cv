@@ -1,0 +1,80 @@
+# Education data
+
+[[education]]
+
+name = "Student of the Degree course in Informatics Engineering"
+studyType = "Bachelor of Science"
+area = "Information Engineering"
+institution = "unisa"
+startDate = "2018-09"
+endDate = null
+url = "https://corsi.unisa.it/ingegneria-informatica/"
+
+[[education]]
+
+name        = "Ai @ The Deep Edge"
+institution = "stm"
+studyType   = "workshop"
+startDate   = "2022-06-08"
+endDate     = "2022-06-08"
+url         = "https://www.pepite.info/blog/corso-gratuito-ai-the-deep-edge-intelligenza-artificiale-applicata-ai-microcontrollori-stm32/"
+
+summary = """
+
+	An introductory seminar about AI-based applications on microcontrollers,
+	and their deployment on STM32 MCUs.
+
+"""
+
+attachments = [
+	"cert-aiAtTheDeepEdge.pdf"
+]
+
+[[education]]
+
+name        = "Neapolis Innovation Summer Campus 2020"
+studyType   = "workshop"
+area        = "Information Engineering"
+institution = "stm"
+startDate   = 2020-08-26
+endDate     = 2020-09-05
+url         = "https://neapolisinnovation.info/"
+
+summary = """
+
+	A one-week intensive campus teaching attendants about 32-bit
+	microcontrollers, RTOSesand their applications.
+	Showcased technologies include the STM32 microcontroller family and the
+	ChibiOS embedded RTOS.
+
+"""
+
+[[education]]
+
+name        = "High School Diploma - Technological Sector, Specialty in Telecommunications and Robotics"
+studyType   = "highschool"
+area        = "Technology"
+institution = "iisgatta"
+startDate   = 2013-09
+endDate     = 2018-07
+url         = "https://istitutocicerone.gov.it/"
+
+[[education]]
+
+name        = "Lab of mobile applications"
+studyType   = "highschool"
+area        = "Technology"
+institution = iisgatta
+startDate   = 2016-09
+endDate     = 2017-02
+url         = "https://istitutocicerone.gov.it/"
+
+[[education]]
+
+name        = "Lab of microcontroller-based robotics"
+studyType   = "highschool"
+area        = "Technology"
+institution = "iisgatta"
+startDate   = 2015-09
+endDate     = 2017-09
+url         = "https://istitutocicerone.gov.it/"

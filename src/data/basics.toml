@@ -1,0 +1,31 @@
+[basics]
+
+name  = "Giuseppe Masino"
+label = "Student"
+image = ""
+email = "dev.gmasino+fromcv@pm.me"
+url   = "www.qub1750ul.me"
+
+[basics.summary]
+
+nationality = Italian
+birthDate = 2000-02-19
+
+[basics.location]
+
+postalCode  = "CAP 84084"
+countryCode = "IT"
+region      = Campania
+province    = Salerno
+city        = Fisciano
+address     = "Via Isolella, 36, Piano terra, Interno 1"
+
+[[basics.profiles]]
+
+network  = "LinkedIn"
+username = "gmasino"
+url      = "https://www.linkedin.com/in/gmasino/"
+
+[[basics.profiles]]
+
+network = StackOverflow
