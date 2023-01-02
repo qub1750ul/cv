@@ -1,0 +1,31 @@
+MAKEFLAGS := --warn-undefined-variables --no-builtin-rules
+
+.ONESHELL:
+SHELL := /bin/bash
+.SHELLFLAGS := -eu -o pipefail -c
+
+.DELETE_ON_ERROR:
+
+# Default tools
+TAR  ?= tar
+FIND ?= find
+PIXZ ?= pixz
+
+# Default directories
+PROJECT_ROOT != pwd
+SRCDIR := src
+
+BUILD_DIR := build
+ARTIFACTS_DIR = $(BUILD_DIR)/artifacts
+
+# Default exports
+export FIND
+export PROJECT_ROOT
+
+# Default targets
+.DEFAULT_GOAL = $(BUILD_DIR)/cv.yml
+
+.SILENT .PHONY: clean
+clean:
+	rm -rf $(BUILD_DIR)
+
