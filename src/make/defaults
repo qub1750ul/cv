@@ -23,7 +23,7 @@ export FIND
 export PROJECT_ROOT
 
 # Default targets
-.DEFAULT_GOAL = $(BUILD_DIR)/cv.yml
+.DEFAULT_GOAL = $(BUILD_DIR)/cv.toml
 
 .SILENT .PHONY: clean
 clean:
