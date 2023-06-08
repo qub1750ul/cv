@@ -6,4 +6,7 @@ $(BUILD_DIR)/cv.toml: $(wildcard src/data/*.toml)
 
 	echo "Rebuilding $@"
 	install -D /dev/null $@
-	for f in $? ; do cat $$f >> $@ ; done
+	for f in $? ; do
+		cat $$f >> $@
+		echo "" >> $@
+	done

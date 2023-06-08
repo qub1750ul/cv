@@ -8,7 +8,7 @@
 "@type"    = "Organization"
 name       = "unisa"
 legalName  = "Università degli Studi di Salerno"
-address    = "Via Giovanni Paolo II, 132, 84084 Fisciano (Italia)"
+address    = "Via Giovanni Paolo II, 132, 84084 Fisciano (Salerno)"
 url        = "https://www.unisa.it/"
 
 [[organizations]]
@@ -25,7 +25,8 @@ url        = "https://www.garrlab.it"
 "@type"    = "Organization"
 name       = "stm"
 legalName  = "ST Microelectronics"
-address    = "Via Remo De Feo, 1, 80022 Arzano (Italia)"
+address    = "Via Remo De Feo, 1, 80022 Arzano (Napoli)"
+url        = "https://www.st.com"
 
 [[organizations]]
 
@@ -33,7 +34,8 @@ address    = "Via Remo De Feo, 1, 80022 Arzano (Italia)"
 "@type"    = "Organization"
 name       = "StudentIngegneria"
 legalName  = "StudentIngegneria"
-address    = "Via Giovanni Paolo II, 132, 84084 Fisciano (Italia)"
+address    = "Via Giovanni Paolo II, 132, 84084 Fisciano (Salerno)"
+url        = "https://www.studentingegneria.it"
 
 [[organizations]]
 
@@ -49,7 +51,7 @@ address    = "85050 Villa d'Agri (Italia)"
 "@type"    = "Organization"
 name       = "iisgatta"
 legalName  = "Istituto d'Istruzione Superiore \"M.T. Cicerone\""
-address    = "Via Carlo Pisacane, 84036 Sala Consilina (Italia)"
+address    = "Via Carlo Pisacane, 84036 Sala Consilina (Salerno)"
 
 [[organizations]]
 
@@ -57,3 +59,20 @@ address    = "Via Carlo Pisacane, 84036 Sala Consilina (Italia)"
 "@type"    = "Organization"
 name       = "unimi"
 legalName  = "Università degli Studi di Milano"
+url        = "https://www.unimi.it"
+
+[[organizations]]
+
+"@context" = "https://schema.org"
+"@type"    = "Organization"
+name       = "fbk"
+legalName  = "Fondazione Bruno Kessler"
+url        = "https://www.fbk.eu"
+address    = "Via Sommarive, 18, 38123 Povo (Trento)"
+
+[[ organization ]]
+"@context" = "https://schema.org"
+"@type"    = "Organization"
+name       = "perlatecnica"
+legalName  = "Associazione Perlatecnica"
+url        = "https://www.perlatecnica.it"

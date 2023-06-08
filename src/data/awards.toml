@@ -15,7 +15,15 @@ technology.
 
 [[awards]]
 
-name = "1st classified team @ GREEN"
-awarder = "fbk"
-date = "2023-06-26"
-summary = ""
+name    = "1st classified team @ GREEN"
+awarder = "perlatecnica"
+date    = "2023-06-26"
+url     = "https://www.perlatecnica.it"
+summary = """
+
+A sustenability themed hackaton.
+Hosted by https://www.fbk.eu/[Bruno Kessler Foundation]
+and
+https://www.unitn.it/[University of Trento].
+
+"""
