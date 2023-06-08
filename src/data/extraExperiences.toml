@@ -16,3 +16,18 @@ summary = """
 """
 
 attachments = []
+
+[[experience]]
+
+name = "FIRST LEGO League - Baronissi Chapter"
+position = "Event organization collaborator"
+institution = "Università degli Studi di Salerno, Dipartimento di Informatica"
+url = "https://www.fll-italia.it"
+startDate = "2020-02"
+endDate = "2020-03"
+summary = """
+
+- Helped in setting up the venue
+- Been responsible for management of a number of partecipants
+
+"""

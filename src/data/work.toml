@@ -2,70 +2,62 @@
 
 [[work]]
 
-position  = Cloud Engineer
-name      = GARRLab
+position  = "Cloud Engineer"
+name      = "garrlab"
 url       = "https://www.garrlab.it/"
-startDate = 2021-04
-endDate   = null
-summary: """
+startDate = "2021-04"
+endDate   = ""
+summary   = """
 
-    I'm an highly active member of the community.
-    In multiple occasions i was invited to promote the community and present
-    my activities within.
+Cloud architect and infrastructure maintainer. +
+Highly active member of the GARRLab community. +
+Invited conference speaker on multiple occasions. +
 
-    Speaking about the technical side of things, i was involved in several
-    activities':'
+Notable technical projects:
 
-    - Implementation of the initial public web service architecture
-    - Managing the internal linux container platform
-    - Implementation of the continuous DevOps pipelines, enabling use of
-      the GitOps framework
-    - Evaluation and design of cloud automation solutions
-    - Administration of a number of services
-"""
+- Design and implementation of the container based cloud architecture
+- Management and evolution of the internal linux container platform
+- Implementation of continuous DevOps pipelines and other cloud automation systems
+  based on the GitOps framework
+- Administration of a number of services
+- Cloud monitoring
 
-[[work]]
-position = Event organization collaborator
-name = "Università degli Studi di Salerno, Dipartimento di Informatica"
-url = "https://www.fll-italia.it"
-startDate = 2020-02
-endDate = 2020-03
-summary = """
-	- Helped in setting up the venue
-	- Been responsible for management of a number of partecipants
+Notable technologies: Docker, Prometheus, Grafana, ELK, Terraform, Ansible,
+OpenStack.
+
 """
 
 [[work]]
 
-position  = Information Technologist
-name      = StudentIngegneria
+position  = "Information Technologist"
+name      = "StudentIngegneria"
 url       = "https://www.studentingegneria.it"
-startDate = 2018-11
-endDate   = 2020-08
-summary = """
-    I worked as a member of the internal informatics engineering group.
-    Requested services included':'
+startDate = "2019-11"
+endDate   = "2020-08"
+summary   = """
 
-    - Planning of software development activities
-    - Evaluation of SaaS solutions
-    - Design of network services
-    - Design of digitalization processes
-    - Implementation of custom software distributions
-    - Linux system administration
-    - Remote and on-site tech support
+Member of the internal informatics engineering committee and development team.
+Actively involved in various activities such as:
+
+- 3rd party product evaluation
+- C++ software development
+- Web service administration
+- Linux system administration
+- Remote and on-site tech support
+
 """
 
 [[work]]
 
-position  = Telecommunications technichan
-name      = Esse Effe Elettronica SAS
-startDate = 2016-06
-endDate   = 2018-06
-summary = """
-    Main activities were about installation and maintenance of various
-    CPEs, mainly':'
+position  = "Telecommunications technichan"
+name      = "esseeffe"
+startDate = "2016-06"
+endDate   = "2018-06"
+summary   = """
 
-    - WISP gateways
-    - VoIP gateways with POTS bridges
-    - DVB-T and DVB-S end user station systems
+Lab and field technichan in the area of installation and maintenance of
+consumer grade telecommunication systems and devices.
+
+Frequently encountered tecnologies: WISP, VoIP, POTS, DVB-T, DVB-S.
+
 """

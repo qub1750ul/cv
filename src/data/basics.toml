@@ -1,31 +1,38 @@
 [basics]
 
-name  = "Giuseppe Masino"
-label = "Student"
 image = ""
-email = "dev.gmasino+fromcv@pm.me"
-url   = "www.qub1750ul.me"
+name  = "Giuseppe Masino"
+label = """
+University student and part-time engineer. +
+Interested in Cloud, IoT, Physical computing and software development.
+"""
 
 [basics.summary]
 
-nationality = Italian
-birthDate = 2000-02-19
+nationality = "Italian"
+birthDate = "2000-02-19"
 
 [basics.location]
 
 postalCode  = "CAP 84084"
 countryCode = "IT"
-region      = Campania
-province    = Salerno
-city        = Fisciano
+region      = "Campania"
+province    = "Salerno"
+city        = "Fisciano"
 address     = "Via Isolella, 36, Piano terra, Interno 1"
 
-[[basics.profiles]]
+[[basics.contacts]]
+
+network = "email"
+url = "mailto:work+from-cv@qub1750ul.me"
+
+[[basics.contacts]]
+
+network = "website"
+url = "https://www.qub1750ul.me"
+
+[[basics.contacts]]
 
 network  = "LinkedIn"
 username = "gmasino"
 url      = "https://www.linkedin.com/in/gmasino/"
-
-[[basics.profiles]]
-
-network = StackOverflow

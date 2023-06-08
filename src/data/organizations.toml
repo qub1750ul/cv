@@ -31,7 +31,7 @@ address    = "Via Remo De Feo, 1, 80022 Arzano (Italia)"
 
 "@context" = "https://schema.org"
 "@type"    = "Organization"
-name       = "si"
+name       = "StudentIngegneria"
 legalName  = "StudentIngegneria"
 address    = "Via Giovanni Paolo II, 132, 84084 Fisciano (Italia)"
 
@@ -48,7 +48,7 @@ address    = "85050 Villa d'Agri (Italia)"
 "@context" = "https://schema.org"
 "@type"    = "Organization"
 name       = "iisgatta"
-legalName  = "Istituto d\'Istruzione Superiore \"M.T. Cicerone\""
+legalName  = "Istituto d'Istruzione Superiore \"M.T. Cicerone\""
 address    = "Via Carlo Pisacane, 84036 Sala Consilina (Italia)"
 
 [[organizations]]

@@ -2,9 +2,17 @@
 My curriculum vitae in machine-readable and reproducible formats.
 :toc:
 
+Published in web format at https://www.qub1750ul.me/cv
+
 == Source data formats
-See xref:doc/dataFormats.adoc[] for info on data formats used in this project.
+
+Mainly a bunch of structured TOML documents.
+
+See xref:doc/dataFormats.adoc[] for in-depth info on data formats used in this
+project.
 
 == Data processing toolchain
 See xref:doc/toolchain.adoc[] for info on the toolchain.
+
+== Output formats
 
