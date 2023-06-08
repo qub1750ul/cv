@@ -11,7 +11,7 @@ summary: """
 
     I'm an highly active member of the community.
     In multiple occasions i was invited to promote the community and present
-    my activities within. See [1].
+    my activities within.
 
     Speaking about the technical side of things, i was involved in several
     activities':'
@@ -22,9 +22,17 @@ summary: """
       the GitOps framework
     - Evaluation and design of cloud automation solutions
     - Administration of a number of services
+"""
 
-    [1]: Presentation at GARR Workshop 2021 about the ongoing projects.
-    ( 2021-11-09 )
+[[work]]
+position = Event organization collaborator
+name = "Università degli Studi di Salerno, Dipartimento di Informatica"
+url = "https://www.fll-italia.it"
+startDate = 2020-02
+endDate = 2020-03
+summary = """
+	- Helped in setting up the venue
+	- Been responsible for management of a number of partecipants
 """
 
 [[work]]
@@ -32,11 +40,9 @@ summary: """
 position  = Information Technologist
 name      = StudentIngegneria
 url       = "https://www.studentingegneria.it"
-startDate = 2019-11
+startDate = 2018-11
 endDate   = 2020-08
-
-summary: """
-
+summary = """
     I worked as a member of the internal informatics engineering group.
     Requested services included':'
 
@@ -51,14 +57,12 @@ summary: """
 
 [[work]]
 
-position  = Assistant trainee
+position  = Telecommunications technichan
 name      = Esse Effe Elettronica SAS
 startDate = 2016-06
 endDate   = 2018-06
-
 summary = """
-
-    Main activities were about installation and maintenance various
+    Main activities were about installation and maintenance of various
     CPEs, mainly':'
 
     - WISP gateways

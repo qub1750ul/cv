@@ -12,7 +12,27 @@ url = "https://corsi.unisa.it/ingegneria-informatica/"
 
 [[education]]
 
-name        = "Ai @ The Deep Edge"
+name = "AI @ The Deep Edge 2023"
+institution = "stm"
+studyType = "workshop"
+startDate = "2023-02-01"
+endDate   = "2023-02-02"
+url = "https://www.pepite.info/blog/aithe-deep-edge-intelligenza-artificiale-applicata-ai-microcontrollori-stm32/"
+
+summary = """
+
+	A 14-hour deep dive workshop about AI theory fundamentals and AI coding on
+	STM32 microcontroller platform with hands-on sessions.
+
+"""
+
+attachments = [
+	"cert-aiAtTheDeepEdge-2023.pdf"
+]
+
+[[education]]
+
+name        = "AI @ The Deep Edge 2022"
 institution = "stm"
 studyType   = "workshop"
 startDate   = "2022-06-08"
@@ -43,7 +63,7 @@ url         = "https://neapolisinnovation.info/"
 summary = """
 
 	A one-week intensive campus teaching attendants about 32-bit
-	microcontrollers, RTOSesand their applications.
+	microcontrollers, RTOSes and their applications.
 	Showcased technologies include the STM32 microcontroller family and the
 	ChibiOS embedded RTOS.
 

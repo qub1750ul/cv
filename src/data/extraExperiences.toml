@@ -1,0 +1,18 @@
+
+[[experience]]
+
+name        = "GREEN"
+institution = "Associazione Perlatecnica"
+studyType   = "workshop"
+startDate   = "2023-05-22"
+endDate     = "2022-05-06"
+url         = "https://green.erasmusplus.perlatecnica.it"
+
+summary = """
+
+	A sustenability themed hackaton.
+	Hosted by Bruno Kessler Foundation and University of Trento.
+
+"""
+
+attachments = []
